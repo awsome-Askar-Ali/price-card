@@ -60,12 +60,9 @@ export function ProTier() {
                               </li>
                          </ul>
                          <div className="d-grid">
-                              <a
-                                   href="#"
-                                   className="btn btn-primary text-uppercase"
-                              >
+                              <button className="btn btn-primary text-uppercase">
                                    Button
-                              </a>
+                              </button>
                          </div>
                     </div>
                </div>
